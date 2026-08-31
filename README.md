@@ -1,4 +1,4 @@
-# FastPredict — Projeto Aplicado II
+# FastPredict — Projeto Aplicado
 
 ## Visão geral
 O **FastPredict** é um projeto acadêmico de Ciência de Dados voltado à **previsão de vendas futuras de itens de cardápio** em uma empresa fictícia do setor de fast-food, a **FastPredict Foods Ltda.**
@@ -81,4 +81,4 @@ O componente curricular exige que o projeto contemple manipulação de **texto o
 🟡 **Em desenvolvimento — Etapa 1 / Kick-off**
 
 ## Autoria
-Projeto acadêmico desenvolvido para a disciplina **Projeto Aplicado II**.
+Projeto acadêmico desenvolvido para a disciplina **Projeto Aplicado**.
